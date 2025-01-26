@@ -8,10 +8,10 @@ body {
   background-color: #eafbff;
   background-image: linear-gradient(
     to bottom,
-    #eafbff 0%,
+    #249ab5 0%,
     #eafbff 50%,
-    #5290f9 50%,
-    #5290f9 100%
+    #3397e9 50%,
+    #ff0000 100%
   );
   font-family: 'Muli', sans-serif;
   display: flex;
